@@ -1,0 +1,7 @@
+cloudscraper
+socks
+Crypto
+pysocks
+colorama
+undetected_chromedriver
+httpx
